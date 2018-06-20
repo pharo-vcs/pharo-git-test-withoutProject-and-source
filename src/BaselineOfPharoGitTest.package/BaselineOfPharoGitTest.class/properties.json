@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPharoGitTest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPharoGitTest",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
